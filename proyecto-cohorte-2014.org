@@ -1,0 +1,130 @@
+
+
+
+
+Tema: Conocimiento Libre y nuevas herramientas de producción
+Título: El Software Libre en tanto herramienta y medio para la comunicación.
+
+* Estado del arte:
+
+En los últimos años Internet viene cobrando cada vez más importancia en lo
+que refiere a nuestra comunicación e interacción, tanto a nivel laboral como
+personal y los estudios sobre la red y sus potenciales no ha cesado ni lo
+hará a corto plazo.
+Con la paulatina democratización del acceso a las nuevas herramientas de la
+era digital y los avances en las tecnologías involucradas en los últimos
+años pudimos observar el surgimiento de nuevos actores comunicacionales,
+hasta llegar al punto que toda persona con acceso a una conexión a la red
+puede devenir en comunicador si así lo desea.  
+Parte de estos cambios se pueden observar en la forma en que los mass media
+toman contenidos generados en la red, entendiendo que la disputa por la
+agenda ya no es potestad de los medios tradicionales y que participar de la
+misma implica devenir en transmedia y ser un jugador más en las llamadas
+redes sociales.
+
+El Software Libre deviene en actor determinante en este esquema, permitiendo
+el acceso a las herramientas para La producción de forma democrática,
+garantizando, al mismo tiempo su uso y apropiación por cualquier individuo o
+grupo que desee devenir en comunicador. Gracias al uso de tecnología de
+código abierto hoy tenemos experiencias de comunicación que resultaban
+impensadas hace solo unos años. A modo de ejemplo podemos hablar de radios
+que usan internet como espectro, publicaciones que impedidas de acceder al
+papel hoy imprimen sus contenidos en la web, canales comunitarios de
+televisión, y varias experiencias derivadas de estas.
+
+A nivel local contamos con experiencias y trabajo activo en pos de acercar estas soluciones
+tecnológicas al sector de medios comunitarios, pymes, cooperativas y sector
+educativo con un claro enfoque en la Ley de Servicios de Comunicación
+Audiovisual y la necesidad de garantizar el libre acceso a la producción de
+contenidos.
+
+La tecnología con la que contamos hoy y su bajo costo de despliegue nos abre
+un campo de acción en pos de acercar contenidos y garantizar el derecho a la
+comunicación de toda la población. 
+
+
+* Aproximación al objeto de estudio
+
+
+Personalmente, a través de las experiencias de campo que me tuvieron como
+actor pude observar algunos de los procesos de apropiación y construcción de
+mensaje desde los movimientos sociales, así como la deconstrucción de
+algunas prácticas de los y las comunicadores en base a las nuevas
+herramientas tecnológicas. Si bien los talleres no se plantearon como una
+investigación, sino como una intervención, la planificación, ejecución y
+seguimiento de los mismos me aportaron herramientas e interrogantes para
+poder plantear este proyecto de investigación que, centrado en el despliegue
+de una red (wifi) comunitaria en un pueblo de la provincia de Rio Negro, se
+propone trabajar sobre la incidencia de la misma en la comunicación interior
+y exterior de la población.
+
+El escenario de trabajo es una población de aproximadamente mil doscientas
+personas que, previo al despliegue de esta red no contaban con acceso a
+internet y por ende a sus herramientas de comunicación. Esta realidad se
+presenta como un escenario ideal para observar en primer plano el cruce que
+se da entre las nuevas herramientas digitales basadas en Software Libre y el
+uso de las mismas para la comunicación. 
+
+La elección de la red a desplegarse en Sierra Colorada como caso de estudio
+esta basada en mi participación, en tanto asesor y parte del equipo de
+despliegue de la misma. La red en cuestión es parte de de una prueba piloto
+que realizan de manera conjunta la CNC y el INTI utilizando tecnología de
+comunicaciones basada en código abierto.
+Este tipo de redes mesh fue objeto de estudio del equipo de Software Libre
+del INTI en 2011 y desde hace un año se paso a pruebas en territorio. 
+
+
+* Fundamentación
+
+Hoy en día la conformación de nuevas prácticas sociales y culturales esta
+altamente relacionada a las llamadas Ntics, tanto que pensar la producción
+de contenidos por fuera de las mismas resulta prácticamente imposible. Si
+bien se han realizada numerosos estudios sobre las nuevas tecnologías y sus
+impactos en nuestra sociedad, el área de las redes comunitarias o libres no
+ha sido un eje mayoritario en las mismas.
+
+Es por ello que considero  relevante focalizar la investigación en esta área
+e indagar sobre el estudio de los procesos de producción y apropiación que
+se generan con la llegada de nuevas tecnologías a una población que carecía
+de acceso a las mismas. 
+ El foco está centrado en el uso de herramientas libres y para producir y
+transmitir contenidos, tanto entre la población afectada por la red como
+entre la misma y las demás ciudades.
+
+La red en si misma es producto de la apropiación colectiva y distribuida,
+ofreciendo un enfoque extra de trabajo. No solo se estudiara como cambia la
+vida de los habitantes de Sierra Colorada sino que se podrá trabajar en el
+seguimiento de todo el proceso de transferencia tecnológica a sus habitantes
+por parte del equipo de implementación.
+
+
+* Objetivos
+
+El objetivo general de este proyecto se centra en los procesos de circulación del conocimiento con base en las herramientas libres
+** Los objetivos específicos son:
+*** Reconocer y caracterizar los actores sociales involucrados.
+*** Describir la dinámica y los procesos involucrados en la gestión de una red comunitaria de comunicaciones.
+*** Identificar los cambios producidos desde la adopción del Software Libre.
+*** Demostrar que la construcción colaborativa beneficia a todos los actores involucrados en el proceso.
+*** Reflexionar sobre la validez epistemológica de los conocimientos producidos fuera de los ámbitos tradicionales.
+
+* Contexto teórico y conceptual
+
+
+
+** Estrategia metodológica
+
+**** Realizaré un estudio de campo en uno de los pueblos testigo del proyecto de Redes Comunitarias WiFi. 
+Los casos serán seleccionados tras un primer acercamiento y sólo luego de
+obtener el consentimiento y la correspondiente autorización.
+
+**** Se realizará un relevamiento de cambios culturales en base a la implantación de la Red
+**** A la vez, realizaré un seguimiento del proceso de transferencia tecnológica y apropiación de la misma por parte de los habitantes de Sierra Colorada.
+**** El abordaje metodológico se articula en torno a la teoría del actor-red y la noción de simetría sociotécnica. Es decir, que consideré relevantes tanto
+ los elementos sociales como los tecnológicos en los procesos de producción y uso del conocimiento.
+** El trabajo se organizará en etapas.
+**** Creación de un espacio para el proyecto en una plataforma colaborativa desde donde se pueda seguir todo el proceso de investigación.
+**** Abordaje de las interacciones: Observación y registro de los procesos de planificación, instalación y operación de la red. 
+**** Análisis de los contenidos: me concentraré en ver que tipos de contenidos crecen primero en uso, con especial seguimiento de los contenidos de consumo
+ hacia el interior del Pueblo afectado.
+**** Realización de encuestas a los actores involucrados en el despliegue, administración y uso de la red. 
