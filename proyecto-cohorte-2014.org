@@ -2,8 +2,7 @@
 
 
 
-Tema: Conocimiento Libre y nuevas herramientas de producción
-Título: El Software Libre en tanto herramienta y medio para la comunicación.
+Conocimiento Libre y nuevas herramientas de producción: El Software Libre en tanto herramienta y medio para la comunicación.
 
 * Estado del arte:
 
