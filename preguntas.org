@@ -4,4 +4,4 @@ Esta tesís busca responder las siguientes preguntas:
 *** ¿Porque la construcción colaborativa beneficia a todos los actores involucrados en el proceso?
 *** ¿Cuáles son las formas de organización del trabajo en la gestión de una red comunitaria de comunicaciones?
 *** ¿Cuál es el paquete socio-técnico ideal para el despliegue de redes comunitarias?
-*** ¿es posible realizar una red de comunitaria de comunicaciones sin unsar SL?
+*** ¿es posible realizar una red de comunitaria de comunicaciones sin usar SL?
